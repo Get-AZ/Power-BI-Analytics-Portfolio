@@ -22,7 +22,7 @@ A two-page analytical report using revenue, profit, time filters, state, product
 
 A two-page procurement report covering total purchases, final and non-final purchase orders, quantities, suppliers, buying and selling packages, dates, and refresh information.
 
-- Report: [`projects/purchase-order-analysis/purchase-order-analysis.pbix`](projects/purchase-order-analysis/purchase-order-analysis.pbix)
+- Report: [`purchase-order-analysis.pbix` release asset](https://github.com/Get-AZ/Power-BI-Analytics-Portfolio/releases/download/v1.0.0/purchase-order-analysis.pbix)
 - Documentation: [`projects/purchase-order-analysis/README.md`](projects/purchase-order-analysis/README.md)
 
 ## Opening the reports
@@ -31,7 +31,7 @@ A two-page procurement report covering total purchases, final and non-final purc
 2. Download the required `.pbix` file from its project directory.
 3. Open the file in Power BI Desktop.
 
-GitHub does not render `.pbix` reports in the browser. Screenshots can be added to each project's `screenshots` directory without changing the original report files.
+GitHub does not render `.pbix` reports in the browser. The larger Purchase Order report is distributed as a versioned GitHub Release asset because it exceeds GitHub's 25 MB browser-upload limit. Screenshots can be added to each project's `screenshots` directory without changing the original report files.
 
 ## Integrity and privacy
 
@@ -44,4 +44,3 @@ GitHub does not render `.pbix` reports in the browser. Screenshots can be added 
 
 **Getamesay Zegeye**  
 [GitHub profile](https://github.com/Get-AZ) · [Professional portfolio](https://getamesay-ml-cloud-ai.astute-cove-1824.chatgpt.site)
-
